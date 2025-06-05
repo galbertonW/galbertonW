@@ -5,6 +5,7 @@
 - 🚀 I’m currently working with Quality Assurance (QA) and using modeling and simulation software for the oil & gas industry, focusing on multiphase flow and process optimization.
 - 💼 I’m looking to collaborate on research projects, open-source engineering tools, and data-driven solutions for the energy sector.
 - 📫 How to reach me: https://www.linkedin.com/in/guilherme-willemann-alberton-91891923a/ or email: willalb.guilherme@gmail.com
+- 🐍 Passionate about programming, especially using Python to solve engineering problems.
 - ⚡ Fun fact: I’m passionate about technology, love challenging problems, and I’ve spent a semester studying abroad in Italy, exploring new cultures and academic perspectives.
 
 
